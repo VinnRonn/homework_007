@@ -22,6 +22,5 @@ def sum(x, y):
     return result
 
 sum(2, 4)
-sum(2, 5)
 sum(2, 4)
 sum(1, 8)
